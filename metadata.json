@@ -1,0 +1,6 @@
+{
+  "name": "팀 꼬마 캘린더",
+  "description": "크레파스 파스텔 감성의 팀 일정 관리 및 랜덤 교대근무 자동 배치 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
